@@ -33,7 +33,7 @@ Passo 10: Transformação de 2 Variáveis Categóricas em Variáveis Numéricas
 
 Passo 11: Correlação de Spearman das Variáveis Númericas
 
-Passo 12: Analisando Correlações com Mapa de Calor (HeatMap)
+Passo 12: Analisando Correlações das Variáveis Númericas com Mapa de Calor (HeatMap)
 
 Passo 13: Correlação nos dados das Variáveis Categóricas
 
