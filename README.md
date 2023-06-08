@@ -45,7 +45,7 @@ Passo 16: Indentificando Dados Desbalanceados
 
 Passo 17: Tratando os Valores Ausentes
 
-Passo 18: Finalizando o Projeto com zero Valores Ausentes.
+Passo 18: Finalizando o Projeto com Nenhum Valor Ausente nas Variáveis.
 
 ## Conclusão:
 
