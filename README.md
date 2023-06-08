@@ -5,7 +5,7 @@ Uma empresa de consultoria que atua em Big Data e Data Science deseja contratar 
 
 Fonte dos Dados: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientistsE
 
-## Defindo o Problema de Negócio:
+## Definindo o Problema de Negócio:
 O objetivo é contratar os profissionais com perfil adequado, a fim dereduzir o custo e o tempo de contratação, bem como a qualidade do treinamento ou planejamento dos cursos e categorização dos candidatos.
 
 Nosso objetivo será analisar os dados, compreender como estão organizados, realizar limpeza e transformação dos dados conforme necessário, para que consigamos encontrar perfil adequado, para saber realmente quais candidatos querem trabalhar na empresa após o treinamento.
