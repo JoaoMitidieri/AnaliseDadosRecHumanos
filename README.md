@@ -49,7 +49,7 @@ Passo 18: Finalizando o Projeto com Nenhum Valor Ausente nas Variáveis.
 
 ## Conclusão:
 
-Com base em nossa análise observamos que as variáveis mais relevantes para identificar um bom candidato são:
+### Com base em nossa análise observamos que as variáveis mais relevantes para identificar um bom candidato são:
 
 Índice de Desenvolvimento da cidade onde mora o candidato.
 
@@ -65,7 +65,7 @@ A especialização na graduação (quando for o caso).
 
 
 
-Não são relevantes para a análise:
+### Não são relevantes para a análise:
 
 O ID do candidato.
 
@@ -80,7 +80,7 @@ O tamanho da empresa (quando for o caso).
 Total de horas de treimamento.
 
 
-Recomendações do Analista de Dados:
+### Recomendações do Analista de Dados:
 
 O RH pode desenvolver um método de coleta de dados para obter outros recursos a fim de melhorar a qualidade dos dados e tornar o trabalho de análise mais preciso.
 
