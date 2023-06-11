@@ -23,17 +23,17 @@ Passo 5: Verificando a Distribuição das Variáveis Numéricas
 
 Passo 6: Descrevendo as Variáveis Numéricas com Medidas de Tendências Centrais
 
-Passo 7: Vizualização das Variáveis Númericas com Gráficos de Histograma e Boxplot 
+Passo 7: Vizualização das Variáveis Numéricas com Gráficos de Histograma e Boxplot 
 
-Passo 8: Teste de Normalidade para validar as Variáveis Númericas
+Passo 8: Teste de Normalidade para validar as Variáveis Numéricas
 
-Passo 9:  Correlação nos dados das Variáveis Númericas
+Passo 9:  Correlação nos dados das Variáveis Numéricas
 
 Passo 10: Transformação de 2 Variáveis Categóricas em Variáveis Numéricas
 
-Passo 11: Correlação de Spearman das Variáveis Númericas
+Passo 11: Correlação de Spearman das Variáveis Numéricas
 
-Passo 12: Analisando Correlações das Variáveis Númericas com Mapa de Calor (HeatMap)
+Passo 12: Analisando Correlações das Variáveis Numéricas com Mapa de Calor (HeatMap)
 
 Passo 13: Correlação nos dados das Variáveis Categóricas
 
