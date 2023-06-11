@@ -1,4 +1,4 @@
-# Análise de Dados para uso na Área de RH
+# Análise de Dados para Utilização da Área de Recursos Humanos
 
 ## Contexto:
 Uma empresa de consultoria que atua em Big Data e Data Science deseja contratar Cientistas de Dados entre pessoas que obtenham aprovação em alguns cursos ministrados pela empresa, e nisso muitas pessoas se inscrevem para o treinamento.
