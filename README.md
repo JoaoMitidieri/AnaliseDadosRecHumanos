@@ -8,7 +8,6 @@ Fonte dos Dados: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data
 ## Definindo o Problema de Negócio:
 O objetivo é contratar os profissionais com perfil adequado, a fim dereduzir o custo e o tempo de contratação, bem como a qualidade do treinamento ou planejamento dos cursos e categorização dos candidatos.
 
-Nosso objetivo será analisar os dados, compreender como estão organizados, realizar limpeza e transformação dos dados conforme necessário, para que consigamos encontrar perfil adequado, para saber realmente quais candidatos querem trabalhar na empresa após o treinamento.
 
 ## Estrátegias usadas para a solução do problema:
 Passo 1: Instalando e Carregando os Pacotes
