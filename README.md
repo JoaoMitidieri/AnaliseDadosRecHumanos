@@ -3,6 +3,8 @@
 ## Contexto:
 Uma empresa de consultoria que atua em Big Data e Data Science deseja contratar Cientistas de Dados entre pessoas que obtenham aprovação em alguns cursos ministrados pela empresa, e nisso muitas pessoas se inscrevem para o treinamento.
 
+Analisar os dados, para compreender como estão organizados, realizar limpeza e transformação dos dados conforme necessário, para que consigamos encontrar perfil adequado, para saber realmente quais candidatos querem trabalhar na empresa após o treinamento.
+
 Fonte dos Dados: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientistsE
 
 ## Definindo o Problema de Negócio:
